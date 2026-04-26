@@ -25,7 +25,7 @@
 
 ### 👤 Sobre Mim
 
-Sou um aspirante a Engenheiro Informático apaixonado por transformar problemas complexos em código simples. O meu foco atual é o **Full-Stack Development**, com uma base sólida em PHP e JavaScript.
+Sou um aspirante a Engenheiro Informático apaixonado por transformar problemas complexos em código simples. O meu foco atual é o **Full-Stack Development**, com uma base sólida em PHP, Java e JavaScript.
 
 - 🎓 Atualmente a frequentar a Licenciatura em Engenharia Informática.
 - 👨‍💻 Dedicado ao desenvolvimento de aplicações web robustas e intuitivas.
@@ -38,7 +38,7 @@ Sou um aspirante a Engenheiro Informático apaixonado por transformar problemas 
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
-| **Backend** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
+| **Backend** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
 | **Ferramentas** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) |
 
 ---
