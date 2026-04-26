@@ -1,24 +1,31 @@
-<div align="center">
+<div>
+  <img align="right" width="400" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Coding.gif" alt="Rapaz a programar animado" />
+  
   <h1>Olá, eu sou o Hugo Sousa! 🚀</h1>
-  <p align="center">
-    <strong>Software Engineering Student @ Universidade Lusófona do Porto</strong><br />
-    <em>Focado em criar soluções web eficientes, escaláveis e com design focado no utilizador.</em>
+  <p><strong>Software Engineering Student @ Universidade Lusófona do Porto</strong></p>
+  <p><em>Focado em criar soluções web eficientes, escaláveis e com design focado no utilizador.</em></p>
+  
+  <br>
+  
+  <p>
+    <a href="https://hugo-daira-sousa-portefolio.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Explorar_o_meu_Portfólio-%2338B2AC?style=for-the-badge" alt="Portfólio do Hugo Sousa" />
+    </a>
   </p>
-
-  <p align="center">
-    <a href="https://hugo-daira-sousa-portefolio.netlify.app/" target="_blank"><strong>Explorar o meu Portfólio »</strong></a>
-    <br />
-    <a href="https://www.linkedin.com/in/hugo-miguel-daira-sousa-99815a266/">LinkedIn</a> •
-    <a href="https://github.com/hmsousa10?tab=repositories">Projetos</a> •
-    <a href="https://www.instagram.com/10_hugo_26/">Instagram</a>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/hugo-miguel-daira-sousa-99815a266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/hmsousa10?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.instagram.com/10_hugo_26/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 </div>
 
-<br />
+<br clear="both">
+<br>
 
 ### 👤 Sobre Mim
 
-Sou um aspirante a Engenheiro Informático apaixonado por transformar problemas complexos em código simples. O meu foco atual é o **Full-Stack Development**, com uma base sólida em PHP e JavaScript. 
+Sou um aspirante a Engenheiro Informático apaixonado por transformar problemas complexos em código simples. O meu foco atual é o **Full-Stack Development**, com uma base sólida em PHP e JavaScript.
 
 - 🎓 Atualmente a frequentar a Licenciatura em Engenharia Informática.
 - 👨‍💻 Dedicado ao desenvolvimento de aplicações web robustas e intuitivas.
@@ -47,8 +54,8 @@ Sou um aspirante a Engenheiro Informático apaixonado por transformar problemas 
 ### 📊 Estatísticas & Atividade
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hmsousa10&show_icons=true&theme=omni&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmsousa10&layout=compact&langs_count=7&theme=omni&border_radius=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hmsousa10&show_icons=true&theme=omni&include_all_commits=true&count_private=true&border_radius=10" alt="Estatísticas do Hugo"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmsousa10&layout=compact&langs_count=7&theme=omni&border_radius=10" alt="Linguagens mais usadas"/>
 </div>
 
 <br />
@@ -65,9 +72,9 @@ Se tens uma ideia para um projeto ou queres apenas trocar ideias sobre tecnologi
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hugo-miguel-daira-sousa-99815a266/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:TEU_EMAIL_AQUI@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
